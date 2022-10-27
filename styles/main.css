@@ -519,6 +519,7 @@ footer#the-end form button {
   }
   header#main-header .sm-menu i {
     width: 1.5em;
+    height:2em;
     display: flex;
     color: #0077c0;
     align-items: center;
