@@ -468,6 +468,14 @@ footer#the-end form button {
 }
 
 /* footer#main-footer end */
+@media (min-width: 1410px) {
+  .container {
+    width: 1200px;
+  }
+  header#main-header .sm-menu {
+    display: none;
+  }
+}
 @media (max-width: 1410px) {
   .container {
     width: 1000px;
